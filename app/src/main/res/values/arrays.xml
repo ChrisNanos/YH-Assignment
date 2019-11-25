@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category">
+        <item>Distance</item>
+        <item>Weight</item>
+        <item>Speed</item>
+    </string-array>
+    <string-array name="distance">
+        <item>kilometer(km)</item>
+        <item>meter(m)</item>
+        <item>centimeter(cm)</item>
+        <item>mile(mi)</item>
+        <item>yard(yd)</item>
+        <item>foot(ft)</item>
+        <item>inch(in)</item>
+    </string-array>
+    <string-array name="weight">
+        <item>kilogram(kg)</item>
+        <item>gram(g)</item>
+        <item>pound(lbs)</item>
+        <item>ounce(oz)</item>
+        <item>stone(st)</item>
+    </string-array>
+    <string-array name="speed">
+        <item>kilometers/hour(km/h)</item>
+        <item>miles/hour(mi/h)</item>
+    </string-array>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">UnitConv</string>
+    <string name="tab_page1">Select Units</string>
+    <string name="tab_page2">Conversion</string>
+    <string name="unit_selector1">Select A Unit:</string>
+    <string name="unit_selector2">Convert To:</string>
+    <string name="category">Category:</string>
+    <string name="to">To:</string>
+    <string name="from">From:</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="c">C</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="up_arrow">▲</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="down_arrow">▼</string>
+    <string name="_0">0</string>
+    <string name="convert">Convert</string>
+</resources>
