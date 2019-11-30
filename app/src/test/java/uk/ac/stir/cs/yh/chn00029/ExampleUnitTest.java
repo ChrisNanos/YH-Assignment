@@ -1,4 +1,4 @@
-package uk.ac.stir.cs.unitconv;
+package uk.ac.stir.cn.chn00029;
 
 import org.junit.Test;
 
